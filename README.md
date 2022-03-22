@@ -1,3 +1,21 @@
+# Expense-Tracker
+
+a reactjs app which tracks the monthly expenses.
+
+#### Tech Stack : Reactjs, CSS, Javascript, VS Code.
+
+#### Live preview of the site :- 
+
+https://yogi-expense-tracker.netlify.app/
+
+Screenshots :-
+
+![React App](https://user-images.githubusercontent.com/69380654/159464777-60d64a4a-c5b7-4d96-8516-b991cb9ab3d3.png)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
